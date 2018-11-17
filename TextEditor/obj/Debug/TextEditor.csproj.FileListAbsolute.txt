@@ -1,0 +1,12 @@
+K:\Docs\work\Projects\C#\TextEditor\TextEditor\bin\Debug\TextEditor.exe
+K:\Docs\work\Projects\C#\TextEditor\TextEditor\bin\Debug\TextEditor.pdb
+K:\Docs\work\Projects\C#\TextEditor\TextEditor\bin\Debug\TextEditor.Logic.dll
+K:\Docs\work\Projects\C#\TextEditor\TextEditor\bin\Debug\TextEditor.Logic.pdb
+K:\Docs\work\Projects\C#\TextEditor\TextEditor\obj\Debug\TextEditor.csprojAssemblyReference.cache
+K:\Docs\work\Projects\C#\TextEditor\TextEditor\obj\Debug\TextEditor.MainForm.resources
+K:\Docs\work\Projects\C#\TextEditor\TextEditor\obj\Debug\TextEditor.Properties.Resources.resources
+K:\Docs\work\Projects\C#\TextEditor\TextEditor\obj\Debug\TextEditor.csproj.GenerateResource.cache
+K:\Docs\work\Projects\C#\TextEditor\TextEditor\obj\Debug\TextEditor.csproj.CoreCompileInputs.cache
+K:\Docs\work\Projects\C#\TextEditor\TextEditor\obj\Debug\TextEditor.csproj.CopyComplete
+K:\Docs\work\Projects\C#\TextEditor\TextEditor\obj\Debug\TextEditor.exe
+K:\Docs\work\Projects\C#\TextEditor\TextEditor\obj\Debug\TextEditor.pdb

@@ -1,0 +1,5 @@
+K:\Docs\work\Projects\C#\TextEditor\TextEditor.Logic\bin\Debug\TextEditor.Logic.dll
+K:\Docs\work\Projects\C#\TextEditor\TextEditor.Logic\bin\Debug\TextEditor.Logic.pdb
+K:\Docs\work\Projects\C#\TextEditor\TextEditor.Logic\obj\Debug\TextEditor.Logic.csproj.CoreCompileInputs.cache
+K:\Docs\work\Projects\C#\TextEditor\TextEditor.Logic\obj\Debug\TextEditor.Logic.dll
+K:\Docs\work\Projects\C#\TextEditor\TextEditor.Logic\obj\Debug\TextEditor.Logic.pdb
